@@ -1,4 +1,4 @@
-﻿
+#!!!! This is still work in progress - doesn't work just yet !!!
 function Install-RDSBasic{
     [cmdletBinding()]
     param(
