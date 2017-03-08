@@ -7,3 +7,5 @@ PowerShell modules which I put together to make my daily life easier for repetit
 **getlocaladmin.psm1** - gets the members of the Administrators group on a local or remote environment
 
 **format-sqldisk.psm1** - remotely looks for RAW disks, formats & configures it to be used as a disk for SQL DBs
+
+**Get-VDisk.psm1** - gets free disk space from local and remote systems
