@@ -1,4 +1,4 @@
-
+#gets free disk space from local and remote systems
 function Get-VDisk {
     [CmdletBinding()]
     param (
